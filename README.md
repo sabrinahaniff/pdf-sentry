@@ -1,4 +1,4 @@
-# PDF Sentry — Defensive PDF Screening Tool (Local)
+# PDF Sentry for Defensive PDF Screening Tool (Local)
 
 PDF Sentry is a local, static PDF inspection tool designed to help identify potentially risky features in PDF files before opening them. It combines multiple open-source analysis utilities into a single interface for quick triage and reporting.
 
