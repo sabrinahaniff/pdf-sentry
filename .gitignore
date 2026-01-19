@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+DidierStevensSuite/
+.venv/
+__pycache__/
+
+
+*.pdf
+*.json
