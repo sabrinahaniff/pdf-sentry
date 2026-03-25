@@ -41,8 +41,6 @@ Many PDF-based attacks rely on features that are not visible to users, such as:
 
 PDF Sentry is meant to provide **pre-execution visibility** into these structures so that users can decide whether a file should be opened in a sandbox, virtual machine, or not at all.
 
-This is not a malware detection engine. It is a **triage and inspection tool**.
-
 ---
 
 ## Requirements
